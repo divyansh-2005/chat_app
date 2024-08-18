@@ -1,7 +1,3 @@
-Certainly! Here’s an updated README that includes a reference to the Socket.IO documentation:
-
----
-
 # Chat App
 
 A real-time chat application built with Node.js, Express, Socket.IO, and SQLite. This app demonstrates how to handle chat messages, user nicknames, and typing notifications, with support for clustering to improve performance.
